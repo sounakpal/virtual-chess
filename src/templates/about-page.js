@@ -18,6 +18,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <PageContent className="content" content={content} />
             </div>
+            <iframe style={{width:'100%',height:'400px'}}  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQm90h1ER-aEqZbuYBt-xxr6wcsA6_KaMX2_3HaYhgeWagK_dTvBHoCuXAazlpampYckm-b6wPVO01Q/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+            <br></br>
+            <iframe style={{width:'100%',height:'650px'}} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQm90h1ER-aEqZbuYBt-xxr6wcsA6_KaMX2_3HaYhgeWagK_dTvBHoCuXAazlpampYckm-b6wPVO01Q/pubhtml?gid=1754433348&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+            <br></br>
+            <iframe style={{width:'100%',height:'400px'}} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQm90h1ER-aEqZbuYBt-xxr6wcsA6_KaMX2_3HaYhgeWagK_dTvBHoCuXAazlpampYckm-b6wPVO01Q/pubhtml?gid=1837742513&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
           </div>
         </div>
       </div>

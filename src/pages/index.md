@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: A Chess competition for thugs  by thugs
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Thug chess is an online chess tournament
+subheading: This portal is to show the stat in a simpler place or format going forward.
 mainpitch:
   title: Why Kaldi
   description: >
