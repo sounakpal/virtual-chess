@@ -16,14 +16,9 @@ intro:
     - image: /img/pp-1-.jpeg
       name: Jongol
       text: Most idiotic guy in the group
-    - image: /img/tutorials.png
-      name: Cool Name
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+    - image: /img/pp-2-.jpeg
+      name: CUTE MASID
+      text: MASID IS THE BEST PLAYER IN THE GROUP
     - image: /img/meeting-space.png
       name: Cool Name
       text: >
