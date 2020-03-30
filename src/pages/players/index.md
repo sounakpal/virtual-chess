@@ -13,13 +13,9 @@ intro:
       name: Sounak Pal
       text: |
         Sits and eats good for nothing.
-    - image: /img/coffee-gear.png
-      name: Cool Name
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/pp-1-.jpeg
+      name: Jongol
+      text: Most idiotic guy in the group
     - image: /img/tutorials.png
       name: Cool Name
       text: >
