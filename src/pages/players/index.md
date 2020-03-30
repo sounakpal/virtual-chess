@@ -1,16 +1,17 @@
 ---
-templateKey: 'product-page'
+heading: Great players but a great human first
 path: /players
+templateKey: product-page
 title: Our Players
 image: /img/jumbotron.jpg
-heading: Great players but a great human first
 description: >-
-  Our player are one of the finest bit of living specimen in the infinite universe.
+  Our player are one of the finest bit of living specimen in the infinite
+  universe.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pp.jpeg
       name: Sounak Pal
-      text: >
+      text: |
         Sits and eats good for nothing.
     - image: /img/coffee-gear.png
       name: Cool Name
