@@ -40,7 +40,7 @@ intro:
     - image: /img/pp-1-.jpeg
       name: Jongs
       text: The Desi Hippie
-    - image: /img/pp-2-.jpeg
+    - image: /img/la.jpg
       name: Masid
       text: The Juwadi with Jigar
     - image: /img/pp-3-.jpeg
@@ -52,7 +52,7 @@ intro:
     - image: /img/pp-5-.jpeg
       name: Avik
       text: 'The Cham '
-    - image: /img/dzl.jfif
+    - image: /img/dzl.jpg
       name: Dzl
       text: The Animal
     - image: /img/maddy.jpg
@@ -60,7 +60,7 @@ intro:
       text: The Babaji !
     - name: Matcho
       text: The Faceless Man
-      image: /img/apple-touch-icon.png
+      image: /img/matcho.jpg
     - name: Aneek
       text: Size Does Matter
       image: /img/aneek.jpg
