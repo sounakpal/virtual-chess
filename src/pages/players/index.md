@@ -1,5 +1,5 @@
 ---
-heading: Great players but a great human first
+heading: Quick Introduction of the thugs!
 path: /players
 templateKey: product-page
 pricing:
@@ -34,24 +34,36 @@ full_image: /img/products-full-width.jpg
 intro:
   blurbs:
     - image: /img/pp.jpeg
-      name: Sounak Pal
+      name: Huso
       text: |
-        Sits and eats good for nothing.
+        He will party with you full power, 24 hours, no shit, no shower.
     - image: /img/pp-1-.jpeg
-      name: Jongol
-      text: Most idiotic guy in the group
+      name: Jongs
+      text: The Desi Hippie
     - image: /img/pp-2-.jpeg
-      name: CUTE MASID
-      text: MASID IS THE BEST PLAYER IN THE GROUP
+      name: Masid
+      text: The Juwadi with Jigar
     - image: /img/pp-3-.jpeg
       name: 'Pablo '
       text: 'Pablo will make you laugh, doesn''t matter who wins.'
     - image: /img/pp-4-.jpeg
-      name: Soumyajit
-      text: Khatron ke khiladi. Chess k rajguru.
+      name: Chashu
+      text: 'Khatron ke khiladi. '
     - image: /img/pp-5-.jpeg
       name: Avik
-      text: 'Avik is a great chess player. '
+      text: 'The Cham '
+    - image: /img/dzl.jfif
+      name: Dzl
+      text: The Animal
+    - image: /img/maddy.jpg
+      name: Maddy
+      text: The Babaji !
+    - name: Matcho
+      text: The Faceless Man
+      image: /img/apple-touch-icon.png
+    - name: Aneek
+      text: Size Does Matter
+      image: /img/aneek.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -67,7 +79,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-title: Our Players
+title: Our Players - the Thugs!
 main:
   heading: Great coffee with no compromises
   description: >
@@ -84,8 +96,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-image: /img/jumbotron.jpg
-description: >-
-  Our player are one of the finest bit of living specimen in the infinite
-  universe.
+image: /img/Logo.png
+description: Meet the Thugs!
 ---
