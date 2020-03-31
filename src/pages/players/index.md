@@ -2,63 +2,6 @@
 heading: Great players but a great human first
 path: /players
 templateKey: product-page
-title: Our Players
-image: /img/jumbotron.jpg
-description: >-
-  Our player are one of the finest bit of living specimen in the infinite
-  universe.
-intro:
-  blurbs:
-    - image: /img/pp.jpeg
-      name: Sounak Pal
-      text: |
-        Sits and eats good for nothing.
-    - image: /img/pp-1-.jpeg
-      name: Jongol
-      text: Most idiotic guy in the group
-    - image: /img/pp-2-.jpeg
-      name: CUTE MASID
-      text: MASID IS THE BEST PLAYER IN THE GROUP
-    - image: /img/meeting-space.png
-      name: Cool Name
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -87,4 +30,62 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+full_image: /img/products-full-width.jpg
+intro:
+  blurbs:
+    - image: /img/pp.jpeg
+      name: Sounak Pal
+      text: |
+        Sits and eats good for nothing.
+    - image: /img/pp-1-.jpeg
+      name: Jongol
+      text: Most idiotic guy in the group
+    - image: /img/pp-2-.jpeg
+      name: CUTE MASID
+      text: MASID IS THE BEST PLAYER IN THE GROUP
+    - image: /img/pp-3-.jpeg
+      name: 'Pablo '
+      text: 'Pablo will make you laugh, doesn''t matter who wins.'
+    - image: /img/pp-4-.jpeg
+      name: Soumyajit
+      text: Khatron ke khiladi. Chess k rajguru.
+    - image: /img/pp-5-.jpeg
+      name: Avik
+      text: 'Avik is a great chess player. '
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: >-
+      Kaldi is the place to go if you want the best quality coffee. I love their
+      stance on empowering farmers and transparency.
+title: Our Players
+main:
+  heading: Great coffee with no compromises
+  description: >
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
+  image1:
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/products-grid3.jpg
+  image2:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/products-grid2.jpg
+  image3:
+    alt: Coffee beans
+    image: /img/products-grid1.jpg
+image: /img/jumbotron.jpg
+description: >-
+  Our player are one of the finest bit of living specimen in the infinite
+  universe.
 ---
