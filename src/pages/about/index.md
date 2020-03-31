@@ -1,7 +1,6 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About this game
+title: 'Thug-Chess : The One-of-a-kind Virtual Chess Tournament'
 ---
-### Few good people tried making their life more interesting.
-This is a chess competition.
+### Entry by invitation only
