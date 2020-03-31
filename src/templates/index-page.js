@@ -55,12 +55,12 @@ export const IndexPageTemplate = ({
                   &nbsp;
                   &nbsp;
                   <Link className="homeLinks" to='/schedule'>
-                    Match Schedule
+                    Match Schedule →
                   </Link>
                   &nbsp;
                   &nbsp;
                   
-                  <Link className="homeLinks" to='/playersinfo'>
+                  <Link className="homeLinks" to='/players'>
                     Know the players  →
                   </Link>
                   </div>
