@@ -48,22 +48,22 @@ export const IndexPageTemplate = ({
           {subheading}
         </h3>
                   <br /> <br />
-                  {/* <div>
-                  <Link class="homeLinks" to='/mathstat'>
+                  <div>
+                  <Link className="homeLinks" to='/table'>
                     Current table  →
                   </Link>
                   &nbsp;
                   &nbsp;
-                  <Link class="homeLinks" to='/matchschedule'>
-                    Match Schedule  →
+                  <Link className="homeLinks" to='/schedule'>
+                    Match Schedule
                   </Link>
                   &nbsp;
                   &nbsp;
                   
-                  <Link class="homeLinks" to='/playersinfo'>
+                  <Link className="homeLinks" to='/playersinfo'>
                     Know the players  →
                   </Link>
-                  </div> */}
+                  </div>
       </div>
     </div>
   </div>

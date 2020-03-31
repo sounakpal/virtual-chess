@@ -18,6 +18,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <PageContent className="content" content={content} />
             </div>
+            <iframe style={{width:'100%',height:'650px'}} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcTQ3nKKCFeoHq9EW_ThIr9b3fdOewEMiVLNrMimTkTzdT8TGo2WECjNMqZggXvw/pubhtml?gid=397780567&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
           </div>
         </div>
       </div>
@@ -52,7 +53,7 @@ AboutPage.propTypes = {
 export default AboutPage
 
 export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+  query SchedulePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

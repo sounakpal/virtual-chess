@@ -64,6 +64,12 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/players">
                 Players
               </Link>
+              <Link className="navbar-item" to='/table'>
+                Current table
+              </Link>
+              <Link className="navbar-item" to='/schedule'>
+                Match Schedule
+              </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
