@@ -63,7 +63,7 @@ intro:
       image: /img/matcho.jpg
     - name: Aneek
       text: Size Does Matter
-      image: /img/aneek.jpg
+      image: /img/img-20200402-wa0001.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
