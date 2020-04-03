@@ -3,6 +3,6 @@ templateKey: schedule-page
 path: /schedule
 title: Schedule of the games
 ---
-### Matches upcoming and previous.
 
-![](/img/april-3.jpg)
+
+![](/img/april-3.jpg "Schedule of the games")
