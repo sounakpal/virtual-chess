@@ -72,24 +72,7 @@ module.exports = {
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Thug Chess`,
-        short_name: `Thugs`,
-        start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
-        cache_busting_mode: `none`, // `query`(default), `name`, or `none`
-      },
-    },
-    {
-      resolve: `gatsby-plugin-offline`,
-      options: {
-        precachePages: [`/index-page`, `/product-page/*`],
-      },
-    },
+    
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
