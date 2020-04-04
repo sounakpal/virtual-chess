@@ -81,7 +81,6 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icon: `static/img/chess.png`,
         cache_busting_mode: `none`, // `query`(default), `name`, or `none`
       },
     },
