@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'Welcome to the official website of Virtual Chess Tournament '
-image: /img/home-jumbotron.jpg
+image: /img/qualifiers.jpg
 heading: Thug chess is an online chess tournament
 subheading: Are you ready to be the Shatranj ki Khiladi ?
 mainpitch:
